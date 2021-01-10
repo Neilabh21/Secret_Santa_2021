@@ -6,12 +6,11 @@
 }
 
 body {
-
-  /*background-image: url("bg.jpg");*/
+  background-image: url('be.jpg');
   /*background-image: url("he.png");*/
-  /*background-repeat: no-repeat;*/
-  /*background-size: cover;*/
-  background-color: #007cc0;
+  background-repeat: no-repeat;
+  background-size: cover;
+  /* background-color: #007cc0; */
 }
 
 #card-front {

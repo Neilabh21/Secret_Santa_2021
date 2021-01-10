@@ -5,7 +5,10 @@ body {
     margin: 0;
     font-size: 100%;
     font-family: 'Dosis', sans-serif;
-    background: #fff;
+    /* background: #fff; */
+    background-image: url("./images/hs.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 
 body a {
@@ -67,7 +70,7 @@ ul {
 
 .content-main {
     position: relative;
-    background: #007cc0;
+    /* background: #007cc0; */
     padding: 3em 0;
 }
 
