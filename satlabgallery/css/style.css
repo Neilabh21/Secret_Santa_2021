@@ -532,6 +532,7 @@ a.hover-2.btn:hover {
 
 footer {
     margin: 0 auto;
+    margin-bottom: 0px;
     width: 90%;
     border-top: 1px ridge rgba(8, 93, 140, 0.48);
 }
